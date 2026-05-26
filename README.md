@@ -39,9 +39,6 @@ This repository is intended to contain **text transcripts only**. Do not upload 
 
 - The original **audio/video** remains owned by its rightsholder(s).
 - A verbatim transcript may be considered a **derivative work** in some jurisdictions.
-- Only apply a Creative Commons license to material you have rights/permission to license.
-
-This repo expects you (the maintainer) to add the intended license file at `LICENSE` when you publish.
 
 ## File format
 
