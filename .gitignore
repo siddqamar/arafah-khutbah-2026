@@ -1,0 +1,38 @@
+# Keep the repo text-only (no media uploads)
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.opus
+*.wma
+
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.avi
+*.m4v
+
+*.zip
+*.7z
+*.rar
+
+# Downloader / transcription byproducts
+*.part
+*.temp
+*.tmp
+*.info.json
+*.ytdl
+*.srt
+*.vtt
+*.ass
+*.lrc
+*.jsonl
+
+# Thumbnails / images from video downloads
+*.jpg
+*.jpeg
+*.png
+*.webp
